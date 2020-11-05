@@ -22,7 +22,7 @@ example, a subscription event will never enter the stream before the user (creat
 
 # Proposed Architecture Solution:
 
-![Alt image](assets/ALPY22.png?raw=true)
+![Alt image](assets/ALPY2.png?raw=true)
 
 
 # Event Schemas:
