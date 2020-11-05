@@ -1,0 +1,23 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1603379632213",
+      "Action": "dynamodb:*",
+      "Effect": "Allow",
+      "Resource": "*"
+    },
+    {
+      "Sid": "Stmt1603379654763",
+      "Action": "kinesis:*",
+      "Effect": "Allow",
+      "Resource": "*"
+    },
+    {
+      "Sid": "Stmt1603379727274",
+      "Action": "logs:*",
+      "Effect": "Allow",
+      "Resource": "*"
+    }
+  ]
+}
